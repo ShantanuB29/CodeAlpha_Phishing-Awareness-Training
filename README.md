@@ -1,5 +1,5 @@
 # CodeAlpha_Phishing-Awareness-Training
- Stop Phishing in its Tracks: Be a Cybersecurity Hero!
+Stop Phishing in its Tracks: Be a Cybersecurity Hero!
 This repository provides resources and materials for a Phishing Awareness Training program designed to educate users and empower them to identify and protect themselves from phishing scams. Phishing attempts aim to steal personal information or gain unauthorized access to systems through deceptive emails, messages, or websites.
 
 By participating in this training, you'll gain the knowledge and skills to:
